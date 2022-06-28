@@ -1,0 +1,53 @@
+body{
+    height: 100vh;
+    background-color: hsl(0, 0%, 100%);
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+header{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 2rem;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+}
+
+main{
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1rem;
+    padding: 2rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#msg{
+    margin-bottom: 2rem;
+    letter-spacing: .05rem;
+}
+
+#imagem{
+    width: 10rem;
+    height: 10rem;
+}
+
+footer{
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-size: .8rem;
+    letter-spacing: .05rem;
+    text-transform: uppercase;
+}
+
+.heart{
+    color: hsl(0, 0%, 100%);
+}
