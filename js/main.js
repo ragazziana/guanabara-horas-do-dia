@@ -7,7 +7,7 @@ var hora = data.getHours()
 
 msg.innerHTML = `Agora são ${hora} horas!`
 
-if (hora >= 0 && hora < 12 ){
+if (hora >= 0 && hora < 12){
     img.src = 'images/morning.png'
     document.body.style.background = '#1CA4DC'
     // Bom dia!
