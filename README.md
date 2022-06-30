@@ -1,6 +1,6 @@
 # Guanabara - Curso de Javascript - Exercício 01
 
-Essa é a minha solução para o Exercício 01, proposto pela  [Curo em Video - com o Professor Guanabara](https://www.youtube.com/watch?v=BXqUH86F-kA&t=8s)
+Essa é a minha solução para o Exercício 01, proposto pela  [Curso em Video - com o Professor Guanabara](https://www.youtube.com/watch?v=BXqUH86F-kA&t=8s)
 
 💻 [Versão online para a minha solução](https://ragazziana.github.io/guanabara-horas-do-dia/)
 
